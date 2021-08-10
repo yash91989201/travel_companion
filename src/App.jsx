@@ -1,5 +1,6 @@
 import React from "react";
-import { CssBaseLine, Grid } from "@material-ui/core";
+import CssBaseLine from "@material-ui/core/CssBaseLine";
+import { Grid } from "@material-ui/core";
 import Header from "./components/Header/Header";
 import List from "./components/List/List";
 import Map from "./components/Map/Map";
